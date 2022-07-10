@@ -1,5 +1,6 @@
 # currency-converter
-Automated currency conversion system
+Automated currency conversion system.
+
 In this system, a set of user profiles as well as instructions pertaining to a set of transactions are available.
 Each transaction is a conversion of some sort for one user. 
 A conversion system has been created to process all of the transactions, updating the user profiles as required. 
